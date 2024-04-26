@@ -1,5 +1,5 @@
 # Predictive-Analytics
-Data cleaning, transformation, manipulation, modeling, visualisation, linear regression, multivariate regression, ARIMA
+PYTHON: Data cleaning, transformation, manipulation, modeling, visualisation, linear regression, multivariate regression, ARIMA
 
 **Background:** 
 The report is to forecast the behaviour of a number of key economic indicators until December 2021; the relevant data sets are to be obtained from the UK Government Oce for National Statistics (ONS{for short) website. A recommendation is sought as to whether these economic indicators can be used to forecast the FTSE 100 Financial Times Index itself, in the context of the ongoing economic crisis.
